@@ -37,7 +37,12 @@ header{
     z-index: 100;
 }
 
+@font-face {
+    font-family: hii;
+    src: url(Boom.ttf);
+}
 .logo{
+    font-family: hii;
     font-size: 4rem;
     color: #00f5e0;
     font-weight: 800;
